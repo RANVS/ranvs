@@ -1,4 +1,5 @@
-# Hi there 👋
+# ![Emote](https://github.com/user-attachments/assets/0092f7e2-4336-4f02-9c90-5cc526023e94) Hola Mundo ! 💻
+
 
 <!--
 **RANVS/ranvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
