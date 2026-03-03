@@ -1,4 +1,4 @@
-# 0x[RANVS] | Security Researcher & Developer 🛡️
+# 0x[RANVS] | Security Researcher & Developer 🛡️🟪⚔️
 
 ```python
 class Profile(Developer, SecurityEnthusiast):
