@@ -1,18 +1,19 @@
-# Hola Mundo ! 💻
-![Emote](https://github.com/user-attachments/assets/0092f7e2-4336-4f02-9c90-5cc526023e94) 
+# 0x[RANVS] | Security Researcher & Developer 🛡️
 
+```python
+class Profile(Developer, SecurityEnthusiast):
+    def __init__(self):
+        self.alias = "Root"
+        self.focus = ["Offensive Security", "Kernel Optimization", "Reverse Engineering"]
+        self.status = "Scanning for vulnerabilities..."
 
-<!--
-**RANVS/ranvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def get_stack(self):
+        return {
+            "Languages": ["C++", "Python", "Rust", "Assembly"],
+            "Tools": ["GDB", "Wireshark", "Metasploit", "Docker"],
+            "OS": ["Arch Linux", "Kali", "Hardened Windows"]
+        }
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Iniciando sesión en el sistema...
+Me = Profile()
+print(f"System access granted to {Me.alias}...")
